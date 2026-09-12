@@ -1,15 +1,11 @@
 # Healthcare Information System — Systems Analysis & Design
 
-This repository contains systems analysis, architecture and database design, process diagrams, interface prototypes, and a feasibility study for a healthcare information system, produced by **Riga Group** for an academic case study modeled on **Ayuda Home Care Agency**, a home health provider serving senior citizens in the Denver Metro Area through Medicare and Medicaid programs.
+This repository contains systems analysis, architecture and database design, process diagrams, and interface prototypes for a healthcare information system, produced by **Riga Group** for an academic case study modeled on **Ayuda Home Care Agency**, a home health provider serving senior citizens in the Denver Metro Area through Medicare and Medicaid programs.
 
 This is an academic analysis and design project: it includes a working interface prototype and a proposed implementation plan, but no production system was built or deployed.
 
 - [Full proposal (PDF)](docs/healthcare-system-proposal.pdf)
 - [Figma prototype (Annex)](https://cycle-rise-74433973.figma.site/)
-
-## My Contribution
-
-I, Christian Alemayehu, completed the requirements and workflow analysis, the three-tier architecture design, the relational database design (3NF, physical ERD, data dictionary), the process diagrams (use case, class, and DFDs), the interface prototypes, and the delivery/testing plan. The financial feasibility analysis (Section 7) was completed by other Riga Group members. Team attribution for the overall project is retained below.
 
 ## 1. Overview and Business Problem
 
@@ -86,20 +82,6 @@ Proposed quality practices include:
 - Bug tracking by severity, with **Jira** proposed as the issue-tracking tool
 
 Post-launch, the proposal recommends scheduled maintenance, patching, and continuous compliance monitoring, backed by a five-year maintenance contract.
-
-## 7. Financial Feasibility
-
-Financial figures were simulated for the academic assignment; projected benefits illustrate the estimation method rather than validated business outcomes.
-
-The proposal estimates administrative effort at **372 hours/year** under the current paper-based process (manual data entry plus audit preparation across four administrative staff), compared with a projected **115 hours/year** after automation — a reduction of **257 hours/year, approximately 69%**. At an assumed rate of $30/hour, this corresponds to a projected labor savings of **$38,550 over five years**.
-
-The proposed five-year system cost is **$527,435**, driven primarily by development labor (three developers and a project manager, ~83.6% of the total), with the remainder covering hosting, integration, training, a contingency buffer, and a five-year maintenance contract.
-
-The projected labor savings ($38,550) are modest relative to the total five-year investment ($527,435) and do not by themselves justify the cost.
-
-## Team
-
-This project was completed by **Riga Group**. See [My Contribution](#my-contribution) above for the individual work breakdown; the financial analysis in Section 7 was completed by other members of the team.
 
 ## Contents
 
